@@ -1,6 +1,5 @@
 # test_bowlers_analysis
-The primary goal is to submit the project made for the workshop "Data analysis with Python" organized by EMK Center.
-<br>The objective of this project is to apply the knowledge of the Data Analysis procedures in the most wickets-taker datset. 
+The objective of this project is to apply the knowledge of the Data Analysis procedures in the most wickets-taker datset. 
 <br>The dataset is collected from ESPNcricinfo.
 
 __Objectives__
