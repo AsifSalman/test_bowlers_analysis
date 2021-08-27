@@ -1,5 +1,5 @@
 # Test_bowlers_analysis
-The objective of this project is to apply the knowledge of the Data Analysis procedures in the most wickets-taker datset. 
+The objective of this project is to apply the Data Analysis procedures in the most wickets-taker datset. 
 <br>The dataset is collected from ESPNcricinfo.
 
 __Objectives__
