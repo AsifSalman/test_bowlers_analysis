@@ -1,7 +1,7 @@
 # Test_bowlers_analysis
 This repository will display the data analysis by using data analysis tools.
 # What the project is about?
-The objective of this project is to apply the Data Analysis procedures in the most wickets-taker datset. 
+The objective of this project is to apply the Data Analysis procedures in the most wickets-taker dataset. 
 <br>The dataset is collected from ESPNcricinfo.
 # Codes
 - Display the first 10 rows of the dataframe
